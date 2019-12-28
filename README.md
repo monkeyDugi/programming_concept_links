@@ -7,5 +7,5 @@
   - 내가 직접 해결한 문제는 다른 블로그의 내용들과는 분명히 다른 부분이 있으므로, 직접 기록할 수 밖에 없다.
          
 ### javascript
-[call stack 개념](https://new93helloworld.tistory.com/358)
-[call stack 동작 방식](https://new93helloworld.tistory.com/361)
+- [call stack 개념](https://new93helloworld.tistory.com/358)
+- [call stack 동작 방식](https://new93helloworld.tistory.com/361)
