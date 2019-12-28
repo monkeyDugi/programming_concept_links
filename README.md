@@ -6,3 +6,6 @@
   - 코드 내용 같은 경우는 간단하게 코드를 작성하고, 코드에 대한 내용만 기록하면 된다. 크게 시간이 들어가지 않는다.
   - 내가 직접 해결한 문제는 다른 블로그의 내용들과는 분명히 다른 부분이 있으므로, 직접 기록할 수 밖에 없다.
          
+### javascript
+[call stack 개념](https://new93helloworld.tistory.com/358)
+[call stack 동작 방식](https://new93helloworld.tistory.com/361)
