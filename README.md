@@ -1,11 +1,8 @@
 # 프로그래밍 내용을 잘 정리한 링크들의 저장소
-### 내용 정리는 이해하는데 많은 도움이 되는 것 같지만, 매번 작성하기에는 많은 시간이 필요하므로, 좋은 글들을 최대한 찾아보려 한다. 
-### 링크 선정 규칙
-- 개념적 내용만 링크한다.
-- 이유 
-  - 코드 내용 같은 경우는 간단하게 코드를 작성하고, 코드에 대한 내용만 기록하면 된다. 크게 시간이 들어가지 않는다.
-  - 내가 직접 해결한 문제는 다른 블로그의 내용들과는 분명히 다른 부분이 있으므로, 직접 기록할 수 밖에 없다.
          
 ### javascript
 - [call stack 개념](https://new93helloworld.tistory.com/358)
 - [call stack 동작 방식](https://new93helloworld.tistory.com/361)
+- [seTimer 개념](https://www.youtube.com/watch?v=iNH4UQxZexs&list=PLuBMRNcyzsWxcnDdAmJWyWYXuExyP9aS1&index=4)
+- [callback과 동기, 비동기](https://www.youtube.com/watch?v=j0Viy3v97gY&list=PLuBMRNcyzsWxcnDdAmJWyWYXuExyP9aS1&index=3)
+- [영상 : callback 지옥과 promise](https://www.youtube.com/watch?v=CA5EDD4Hjz4&list=PLuBMRNcyzsWxcnDdAmJWyWYXuExyP9aS1)
